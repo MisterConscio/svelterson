@@ -13,7 +13,6 @@
     src={alphaImg}
     alt="Cute anime girl"
     title="Cute Alpha"
-    width="500"
   />
 </div>
 
@@ -28,6 +27,6 @@
 
   .welcome-img {
     margin-inline: auto;
-    max-width: 500px;
+    max-width: 300px;
   }
 </style>
