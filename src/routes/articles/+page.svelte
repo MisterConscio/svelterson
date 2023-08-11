@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Svelterson - Articles</title>
+</svelte:head>
+
 <main>
   <div class="container">
     <h2>Muh brilliant articles</h2>

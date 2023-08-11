@@ -2,6 +2,11 @@
     import Article from "$lib/components/Article.svelte";
 
 </script>
+
+<svelte:head>
+  <title>Svelterson - About</title>
+</svelte:head>
+
 <main>
   <div class="container">
     <h2 class="center page-title">This is the about</h2>

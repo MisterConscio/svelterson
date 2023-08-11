@@ -2,6 +2,10 @@
   import alphaImg from "$lib/images/alpha.jpg";
 </script>
 
+<svelte:head>
+  <title>Svelterson</title>
+</svelte:head>
+
 <div class="container">
   <h2 class="center page-title">Hey, welcome!</h2>
   <img
