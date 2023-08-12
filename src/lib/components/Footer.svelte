@@ -1,5 +1,5 @@
 <footer>
-  <p>EOF</p>
+  <small>EOF</small>
 </footer>
 
 <style>
